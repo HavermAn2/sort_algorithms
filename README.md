@@ -1,1 +1,1 @@
-This progect shows differences between sorting algorithms and their computational complexities.
+The program takes the array length as input from the user. Then, for every subarray size from 3 up to the given maximum, it sorts the data using three different sorting algorithms and visualizes their time complexity on a line chart.
