@@ -1,0 +1,10 @@
+C:\Users\olejn\Desktop\Sortings visualisations\Sortings visualisations\obj\Debug\Sortings visualisations.csproj.AssemblyReference.cache
+C:\Users\olejn\Desktop\Sortings visualisations\Sortings visualisations\obj\Debug\Sortings_visualisations.Properties.Resources.resources
+C:\Users\olejn\Desktop\Sortings visualisations\Sortings visualisations\obj\Debug\Sortings visualisations.csproj.GenerateResource.cache
+C:\Users\olejn\Desktop\Sortings visualisations\Sortings visualisations\obj\Debug\Sortings visualisations.csproj.CoreCompileInputs.cache
+C:\Users\olejn\Desktop\Sortings visualisations\Sortings visualisations\obj\Debug\New_Project_Algorithms.Form1.resources
+C:\Users\olejn\Desktop\Sortings visualisations\Sortings visualisations\bin\Debug\Sortings visualisations.exe.config
+C:\Users\olejn\Desktop\Sortings visualisations\Sortings visualisations\bin\Debug\Sortings visualisations.exe
+C:\Users\olejn\Desktop\Sortings visualisations\Sortings visualisations\bin\Debug\Sortings visualisations.pdb
+C:\Users\olejn\Desktop\Sortings visualisations\Sortings visualisations\obj\Debug\Sortings visualisations.exe
+C:\Users\olejn\Desktop\Sortings visualisations\Sortings visualisations\obj\Debug\Sortings visualisations.pdb
